@@ -396,7 +396,7 @@
     "enableFakeDns": "Использовать поддельную DNS",
     "bypassLan": "Обход локальной сети",
     "strictRoute": "Строгая маршрутизация",
-    "enableTlsFragment": "Enable TLS Fragment",
+    "enableTlsFragment": "Включить TLS Fragment",
     "tlsFragmentSize": "TLS Fragment Size",
     "tlsFragmentSleep": "TLS Fragment Sleep",
     "enableTlsMixedSniCase": "Включить TLS Mixed SNI Case",
